@@ -10,7 +10,7 @@ $minMax = new \Trevos\MinMax();
           integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
     <title>Trevos - MinMax</title>
-    <?php echo $minMax->proccessForm();?>
+    <?php $minMax->proccessForm();?>
 
 </head>
 <body>
